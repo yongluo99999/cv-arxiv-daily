@@ -22,9 +22,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Time Series": 
+    "Time Series Forecasting": 
         filters: ["Time Series Forecasting","Time Series prediction"]
-    "Spatial Temporal":
+    "Spatial Temporal Forecasting":
         filters: ["Spatial Temporal Forecasting","Spatial Temporal prediction"]
     "Graph Neural Networks":
         filters: ["Graph Neural Networks", "GNN","GCN"]
