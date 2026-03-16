@@ -27,7 +27,7 @@ keywords:
     "Spatial Temporal":
         filters: ["Spatial Temporal Forecasting","Spatial Temporal prediction"]
     "Graph Neural Networks":
-        filters: ["Graph Neural Networks", "GNN"，"GCN"]
+        filters: ["Graph Neural Networks", "GNN","GCN"]
     "Load Forecasting":
         filters: ["Load Forecasting","Load prediction"]
     "EV Charging Load Forecasting":
