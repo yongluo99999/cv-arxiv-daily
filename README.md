@@ -7,8 +7,8 @@
     <li><a href=#time-series>Time Series</a></li>
     <li><a href=#spatial-temporal>Spatial Temporal</a></li>
     <li><a href=#graph-neural-networks>Graph Neural Networks</a></li>
-    <li><a href=#electric-vehicle-charging-stations>Electric Vehicle Charging Stations</a></li>
     <li><a href=#load-forecasting>Load Forecasting</a></li>
+    <li><a href=#ev-charging-load-forecasting>EV Charging Load Forecasting</a></li>
   </ol>
 </details>
 
@@ -16,16 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-13**|**L2GTX: From Local to Global Time Series Explanations**|Ephrem Tibebe Mekonnen et.al.|[2603.13065](http://arxiv.org/abs/2603.13065)|null|
-|**2026-03-13**|**Competition-Aware CPC Forecasting with Near-Market Coverage**|Sebastian Frey et.al.|[2603.13059](http://arxiv.org/abs/2603.13059)|null|
 |**2026-03-13**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
 |**2026-03-13**|**Breaking concentration barriers for quantum extreme learning on digital quantum processors**|Timothée Dao et.al.|[2603.13005](http://arxiv.org/abs/2603.13005)|null|
-|**2026-03-13**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al.|[2603.12916](http://arxiv.org/abs/2603.12916)|null|
-|**2026-03-13**|**Explainable AI Using Inherently Interpretable Components for Wearable-based Health Monitoring**|Maurice Kuschel et.al.|[2603.12880](http://arxiv.org/abs/2603.12880)|null|
-|**2026-03-13**|**Quantifying Perovskite Solar Cell Degradation via Machine Learning from Spatially Resolved Multimodal Luminescence Time Series**|Giulio Barletta et.al.|[2603.12857](http://arxiv.org/abs/2603.12857)|null|
 |**2026-03-13**|**From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**|Lehui Li et.al.|[2603.12664](http://arxiv.org/abs/2603.12664)|null|
-|**2026-03-13**|**Consistent and powerful CUSUM change-point test for panel data with changes in variance**|Wenzhi Yang et.al.|[2603.12561](http://arxiv.org/abs/2603.12561)|null|
-|**2026-03-13**|**Deep Distance Measurement Method for Unsupervised Multivariate Time Series Similarity Retrieval**|Susumu Naito et.al.|[2603.12544](http://arxiv.org/abs/2603.12544)|null|
+|**2026-03-12**|**EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting**|Rajdeep Pathak et.al.|[2603.11909](http://arxiv.org/abs/2603.11909)|null|
+|**2026-03-12**|**On the Role of Reversible Instance Normalization**|Gaspard Berthelier et.al.|[2603.11869](http://arxiv.org/abs/2603.11869)|null|
+|**2026-03-11**|**TimeSqueeze: Dynamic Patching for Efficient Time Series Forecasting**|Sravan Kumar Ankireddy et.al.|[2603.11352](http://arxiv.org/abs/2603.11352)|null|
+|**2026-03-11**|**Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression**|Taehyung Kwon et.al.|[2603.10410](http://arxiv.org/abs/2603.10410)|null|
+|**2026-03-10**|**Rethinking Adam for Time Series Forecasting: A Simple Heuristic to Improve Optimization under Distribution Shifts**|Yuze Dong et.al.|[2603.10095](http://arxiv.org/abs/2603.10095)|null|
+|**2026-03-10**|**FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**|Boya Zhang et.al.|[2603.09661](http://arxiv.org/abs/2603.09661)|null|
+|**2026-03-10**|**Dynamic Multi-period Experts for Online Time Series Forecasting**|Seungha Hong et.al.|[2603.09062](http://arxiv.org/abs/2603.09062)|null|
 
 <p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
@@ -33,16 +33,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-13**|**AnchorVLA4D: an Anchor-Based Spatial-Temporal Vision-Language-Action Model for Robotic Manipulation**|Juan Zhu et.al.|[2603.12730](http://arxiv.org/abs/2603.12730)|null|
-|**2026-03-13**|**VCBench: A Streaming Counting Benchmark for Spatial-Temporal State Maintenance in Long Videos**|Pengyiang Liu et.al.|[2603.12703](http://arxiv.org/abs/2603.12703)|null|
-|**2026-03-12**|**VisiFold: Long-Term Traffic Forecasting via Temporal Folding Graph and Node Visibility**|Zhiwei Zhang et.al.|[2603.11816](http://arxiv.org/abs/2603.11816)|null|
-|**2026-03-12**|**Risk-Controllable Multi-View Diffusion for Driving Scenario Generation**|Hongyi Lin et.al.|[2603.11534](http://arxiv.org/abs/2603.11534)|null|
-|**2026-03-11**|**Hierarchical Granularity Alignment and State Space Modeling for Robust Multimodal AU Detection in the Wild**|Jun Yu et.al.|[2603.11306](http://arxiv.org/abs/2603.11306)|null|
-|**2026-03-11**|**Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity**|Zhengyao Fang et.al.|[2603.10990](http://arxiv.org/abs/2603.10990)|null|
-|**2026-03-12**|**Logics-Parsing-Omni Technical Report**|Xin An et.al.|[2603.09677](http://arxiv.org/abs/2603.09677)|null|
-|**2026-03-11**|**Reconstructing Movement from Sparse Samples: Enhanced Spatio-Temporal Matching Strategies for Low-Frequency Data**|Ali Yousefian et.al.|[2603.09412](http://arxiv.org/abs/2603.09412)|null|
-|**2026-03-09**|**Towards Visual Query Segmentation in the Wild**|Bing Fan et.al.|[2603.08898](http://arxiv.org/abs/2603.08898)|null|
-|**2026-03-09**|**Heterogeneously Integrated Diamond-on-Lithium Niobate Quantum Photonic Platform**|Sophie W. Ding et.al.|[2603.08609](http://arxiv.org/abs/2603.08609)|null|
+|**2026-01-30**|**FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction**|Chengyang Zhou et.al.|[2601.22578](http://arxiv.org/abs/2601.22578)|null|
+|**2025-12-19**|**Wireless Traffic Prediction with Large Language Model**|Chuanting Zhang et.al.|[2512.22178](http://arxiv.org/abs/2512.22178)|null|
+|**2025-10-11**|**P-4DGS: Predictive 4D Gaussian Splatting with 90 $\times$ Compression**|Henan Wang et.al.|[2510.10030](http://arxiv.org/abs/2510.10030)|null|
+|**2025-08-18**|**SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration**|Bang Hu et.al.|[2508.02069](http://arxiv.org/abs/2508.02069)|null|
+|**2025-06-08**|**Regularized Adaptive Graph Learning for Large-Scale Traffic Forecasting**|Kaiqi Wu et.al.|[2506.07179](http://arxiv.org/abs/2506.07179)|null|
+|**2025-03-31**|**Spatio-temporal Prediction of Fine-Grained Origin-Destination Matrices with Applications in Ridesharing**|Run Yang et.al.|[2503.24237](http://arxiv.org/abs/2503.24237)|null|
+|**2025-06-05**|**Spatial-temporal prediction of forest attributes using latent Gaussian models and inventory data**|Paul B. May et.al.|[2503.16691](http://arxiv.org/abs/2503.16691)|null|
+|**2024-12-19**|**ST-ReP: Learning Predictive Representations Efficiently for Spatial-Temporal Forecasting**|Qi Zheng et.al.|[2412.14537](http://arxiv.org/abs/2412.14537)|null|
+|**2024-12-17**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912](http://arxiv.org/abs/2412.10912)|null|
+|**2024-12-07**|**Memory-enhanced Invariant Prompt Learning for Urban Flow Prediction under Distribution Shifts**|Haiyang Jiang et.al.|[2412.05534](http://arxiv.org/abs/2412.05534)|null|
 
 <p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
@@ -63,23 +63,6 @@
 
 <p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
-## Electric Vehicle Charging Stations
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2026-03-12**|**New electric vehicle charging rate design : an MPEC assessment**|Icaro Silvestre Freitas Gomes et.al.|[2603.11894](http://arxiv.org/abs/2603.11894)|null|
-|**2026-02-24**|**Autonomous Edge-Deployed AI Agents for Electric Vehicle Charging Infrastructure Management**|Mohammed Cherifi et.al.|[2603.08736](http://arxiv.org/abs/2603.08736)|null|
-|**2026-03-06**|**Impact of Work Schedule Flexibility on EV Hosting Capacity: Insights from Analyzing Field Data**|Marco Iorio et.al.|[2603.06943](http://arxiv.org/abs/2603.06943)|null|
-|**2026-03-06**|**Edge Intelligence-Driven LegalEdge Contracts for EV Charging Stations: A Fedrated Learning with Deep Q-Networks Approach**|Rahim Rahmani et.al.|[2603.06041](http://arxiv.org/abs/2603.06041)|null|
-|**2026-03-04**|**Strategic Interactions in Multi-Level Stackelberg Games with Non-Follower Agents and Heterogeneous Leaders**|Niloofar Aminikalibar et.al.|[2603.04628](http://arxiv.org/abs/2603.04628)|null|
-|**2026-02-27**|**Time Series Foundation Models as Strong Baselines in Transportation Forecasting: A Large-Scale Benchmark Analysis**|Javier Pulido et.al.|[2602.24238](http://arxiv.org/abs/2602.24238)|null|
-|**2026-02-14**|**EVECTOR: An orchestrator for analysing attacks in electric vehicles charging system**|Devki Nandan Jha et.al.|[2602.13926](http://arxiv.org/abs/2602.13926)|null|
-|**2026-02-12**|**Grid-ECO: Grid Aware Electric Vehicle Charging Stations Placement Optimizer**|Bikram Panthee et.al.|[2602.12473](http://arxiv.org/abs/2602.12473)|null|
-|**2026-02-12**|**Online Electric Vehicle Charging Control with Battery Thermal Management in Cold Environments**|Xiaowei Wang et.al.|[2602.11561](http://arxiv.org/abs/2602.11561)|null|
-|**2026-02-11**|**Resilient Voltage Estimation for Battery Packs Using Self-Learning Koopman Operator**|Sanchita Ghosh et.al.|[2602.10397](http://arxiv.org/abs/2602.10397)|null|
-
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
-
 ## Load Forecasting
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -90,10 +73,18 @@
 |**2026-02-26**|**An Artificial Intelligence Framework for Joint Structural-Temporal Load Forecasting in Cloud Native Platforms**|Qingyuan Zhang et.al.|[2602.22780](http://arxiv.org/abs/2602.22780)|null|
 |**2026-02-11**|**Time Series Foundation Models for Energy Load Forecasting on Consumer Hardware: A Multi-Dimensional Zero-Shot Benchmark**|Luigi Simeone et.al.|[2602.10848](http://arxiv.org/abs/2602.10848)|null|
 |**2026-02-09**|**A Lightweight Multi-View Approach to Short-Term Load Forecasting**|Julien Guité-Vinet et.al.|[2602.09220](http://arxiv.org/abs/2602.09220)|null|
+|**2026-02-06**|**Stall cells over an airfoil. Part 1: Three-dimensional flow organisation and vorticity dynamics**|Rishabh Mishra et.al.|[2602.09052](http://arxiv.org/abs/2602.09052)|null|
+|**2026-02-08**|**Adjustment of Cluster-Then-Predict Framework for Multiport Scatterer Load Prediction**|Hanjun Park et.al.|[2602.08129](http://arxiv.org/abs/2602.08129)|null|
 |**2026-02-04**|**Resilient Load Forecasting under Climate Change: Adaptive Conditional Neural Processes for Few-Shot Extreme Load Forecasting**|Chenxi Hu et.al.|[2602.04609](http://arxiv.org/abs/2602.04609)|null|
 |**2026-02-03**|**Real-world energy data of 200 feeders from low-voltage grids with metadata in Germany over two years**|Manuel Treutlein et.al.|[2602.03521](http://arxiv.org/abs/2602.03521)|null|
-|**2026-02-02**|**Harnessing Flexible Spatial and Temporal Data Center Workloads for Grid Regulation Services**|Yingrui Fan et.al.|[2602.01508](http://arxiv.org/abs/2602.01508)|null|
-|**2026-01-10**|**Short-term electricity load forecasting with multi-frequency reconstruction diffusion**|Qi Dong et.al.|[2601.06533](http://arxiv.org/abs/2601.06533)|null|
+
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+
+## EV Charging Load Forecasting
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2019-09-03**|**Load Forecasting Model and Day-ahead Operation Strategy for City-located EV Quick Charge Stations**|Zeyu Liu et.al.|[1909.00971](http://arxiv.org/abs/1909.00971)|null|
 
 <p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
