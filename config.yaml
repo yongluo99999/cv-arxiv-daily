@@ -23,10 +23,12 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Time Series": 
-        filters: ["Time Series Forecasting"]
+        filters: ["Time Series Forecasting","Time Series prediction"]
     "Spatial Temporal":
-        filters: ["Spatial Temporal Forecasting"]
+        filters: ["Spatial Temporal Forecasting","Spatial Temporal prediction"]
     "Graph Neural Networks":
         filters: ["Graph Neural Networks", "GNN"，"GCN"]
     "Load Forecasting":
-        filters: ["Load Forecasting"]
+        filters: ["Load Forecasting","Load prediction"]
+    "EV Charging Load Forecasting":
+        filters: ["EV Charging Load Forecasting","EV station load prediction"]
