@@ -2,16 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Time Series Forecasting
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-13**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
+|**2026-03-16**|**Seeking SOTA: Time-Series Forecasting Must Adopt Taxonomy-Specific Evaluation to Dispel Illusory Gains**|Raeid Saqur et.al.|[2603.15506](http://arxiv.org/abs/2603.15506)|null|
+|**2026-03-16**|**Unlocking the Value of Text: Event-Driven Reasoning and Multi-Level Alignment for Time Series Forecasting**|Siyuan Wang et.al.|[2603.15452](http://arxiv.org/abs/2603.15452)|null|
+|**2026-03-16**|**OpenReservoirComputing: GPU-Accelerated Reservoir Computing in JAX**|Jan Williams et.al.|[2603.14802](http://arxiv.org/abs/2603.14802)|null|
+|**2026-03-16**|**Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention**|Seunghan Lee et.al.|[2603.14709](http://arxiv.org/abs/2603.14709)|null|
+|**2026-03-15**|**EARCP: Self-Regulating Coherence-Aware Ensemble Architecture for Sequential Decision Making -- Ensemble Auto-Regule par Coherence et Performance**|Mike Amega et.al.|[2603.14651](http://arxiv.org/abs/2603.14651)|null|
+|**2026-03-14**|**Routing Channel-Patch Dependencies in Time Series Forecasting with Graph Spectral Decomposition**|Dongyuan Li et.al.|[2603.13702](http://arxiv.org/abs/2603.13702)|null|
+|**2026-03-14**|**Locally Linear Continual Learning for Time Series based on VC-Theoretical Generalization Bounds**|Yan V. G. Ferreira et.al.|[2603.13674](http://arxiv.org/abs/2603.13674)|null|
+|**2026-03-16**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
 |**2026-03-13**|**Breaking concentration barriers for quantum extreme learning on digital quantum processors**|Timothée Dao et.al.|[2603.13005](http://arxiv.org/abs/2603.13005)|null|
-|**2026-03-13**|**From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**|Lehui Li et.al.|[2603.12664](http://arxiv.org/abs/2603.12664)|null|
+|**2026-03-16**|**From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**|Lehui Li et.al.|[2603.12664](http://arxiv.org/abs/2603.12664)|null|
 |**2026-03-12**|**EnTransformer: A Deep Generative Transformer for Multivariate Probabilistic Forecasting**|Rajdeep Pathak et.al.|[2603.11909](http://arxiv.org/abs/2603.11909)|null|
 |**2026-03-12**|**On the Role of Reversible Instance Normalization**|Gaspard Berthelier et.al.|[2603.11869](http://arxiv.org/abs/2603.11869)|null|
 |**2026-03-11**|**TimeSqueeze: Dynamic Patching for Efficient Time Series Forecasting**|Sravan Kumar Ankireddy et.al.|[2603.11352](http://arxiv.org/abs/2603.11352)|null|
@@ -39,6 +46,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Low-Complexity and Consistent Graphon Estimation from Multiple Networks**|Roland Boniface Sogan et.al.|[2603.15578](http://arxiv.org/abs/2603.15578)|null|
+|**2026-03-16**|**Multimodal Connectome Fusion via Cross-Attention for Autism Spectrum Disorder Classification Using Graph Learning**|Ansar Rahman et.al.|[2603.15168](http://arxiv.org/abs/2603.15168)|null|
+|**2026-03-16**|**CrossADR: enhancing adverse drug reactions prediction for combination pharmacotherapy with cross-layer feature integration and cross-level associative learning**|Y. Cheung et.al.|[2603.15047](http://arxiv.org/abs/2603.15047)|null|
+|**2026-03-16**|**Masked BRep Autoencoder via Hierarchical Graph Transformer**|Yifei Li et.al.|[2603.14927](http://arxiv.org/abs/2603.14927)|null|
+|**2026-03-16**|**TopoVST: Toward Topology-fidelitous Vessel Skeleton Tracking**|Yaoyu Liu et.al.|[2603.14909](http://arxiv.org/abs/2603.14909)|null|
+|**2026-03-16**|**IgPose: A Generative Data-Augmented Pipeline for Robust Immunoglobulin-Antigen Binding Prediction**|Tien-Cuong Bui et.al.|[2603.14870](http://arxiv.org/abs/2603.14870)|null|
+|**2026-03-16**|**Lost in Aggregation: On a Fundamental Expressivity Limit of Message-Passing Graph Neural Networks**|Eran Rosenbluth et.al.|[2603.14846](http://arxiv.org/abs/2603.14846)|null|
+|**2026-03-16**|**GNNVerifier: Graph-based Verifier for LLM Task Planning**|Yu Hao et.al.|[2603.14730](http://arxiv.org/abs/2603.14730)|null|
+|**2026-03-15**|**Two-Stage Heterogeneous Graph Neural Network for RIS-Aided Physical-Layer Security**|Zihan Song et.al.|[2603.14655](http://arxiv.org/abs/2603.14655)|null|
+|**2026-03-15**|**Geometric and Topological Deep Learning for Predicting Thermo-mechanical Performance in Cold Spray Deposition Process Modeling**|Akshansh Mishra et.al.|[2603.14478](http://arxiv.org/abs/2603.14478)|null|
 |**2026-03-13**|**Goal-Oriented Learning at the Edge: Graph Neural Networks Over-the-Air for Blockage Prediction**|Lorenzo Mario Amorosa et.al.|[2603.13094](http://arxiv.org/abs/2603.13094)|null|
 |**2026-03-13**|**OpenACMv2: An Accuracy-Constrained Co-Optimization Framework for Approximate DCiM**|Yiqi Zhou et.al.|[2603.13042](http://arxiv.org/abs/2603.13042)|null|
 |**2026-03-13**|**Association-Aware GNN for Precoder Learning in Cell-Free Systems**|Mingyu Deng et.al.|[2603.13035](http://arxiv.org/abs/2603.13035)|null|
