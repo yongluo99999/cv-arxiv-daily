@@ -1,4 +1,4 @@
-## Updated on 2026.03.17
+## Updated on 2026.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism**|Lei Gao et.al.|[2603.18712](http://arxiv.org/abs/2603.18712)|null|
+|**2026-03-19**|**MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting**|Runze Yang et.al.|[2603.18432](http://arxiv.org/abs/2603.18432)|null|
+|**2026-03-18**|**Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates**|Linxiao Yang et.al.|[2603.17439](http://arxiv.org/abs/2603.17439)|null|
+|**2026-03-18**|**TimeAPN: Adaptive Amplitude-Phase Non-Stationarity Normalization for Time Series Forecasting**|Yue Hu et.al.|[2603.17436](http://arxiv.org/abs/2603.17436)|null|
+|**2026-03-18**|**The Phasor Transformer: Resolving Attention Bottlenecks on the Unit Circle**|Dibakar Sigdel et.al.|[2603.17433](http://arxiv.org/abs/2603.17433)|null|
+|**2026-03-17**|**Integrating Inductive Biases in Transformers via Distillation for Financial Time Series Forecasting**|Yu-Chen Den et.al.|[2603.16985](http://arxiv.org/abs/2603.16985)|null|
+|**2026-03-16**|**Optimizing Hospital Capacity During Pandemics: A Dual-Component Framework for Strategic Patient Relocation**|Sadaf Tabatabaee et.al.|[2603.15960](http://arxiv.org/abs/2603.15960)|null|
+|**2026-03-18**|**PhasorFlow: A Python Library for Unit Circle Based Computing**|Dibakar Sigdel et.al.|[2603.15886](http://arxiv.org/abs/2603.15886)|null|
+|**2026-03-16**|**Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables**|Andres Potapczynski et.al.|[2603.15802](http://arxiv.org/abs/2603.15802)|null|
 |**2026-03-16**|**Seeking SOTA: Time-Series Forecasting Must Adopt Taxonomy-Specific Evaluation to Dispel Illusory Gains**|Raeid Saqur et.al.|[2603.15506](http://arxiv.org/abs/2603.15506)|null|
 |**2026-03-16**|**Unlocking the Value of Text: Event-Driven Reasoning and Multi-Level Alignment for Time Series Forecasting**|Siyuan Wang et.al.|[2603.15452](http://arxiv.org/abs/2603.15452)|null|
 |**2026-03-16**|**OpenReservoirComputing: GPU-Accelerated Reservoir Computing in JAX**|Jan Williams et.al.|[2603.14802](http://arxiv.org/abs/2603.14802)|null|
@@ -34,7 +43,7 @@
 |**2026-03-10**|**FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**|Boya Zhang et.al.|[2603.09661](http://arxiv.org/abs/2603.09661)|null|
 |**2026-03-10**|**Dynamic Multi-period Experts for Online Time Series Forecasting**|Seungha Hong et.al.|[2603.09062](http://arxiv.org/abs/2603.09062)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Spatial Temporal Forecasting
 
@@ -51,12 +60,22 @@
 |**2024-12-17**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912](http://arxiv.org/abs/2412.10912)|null|
 |**2024-12-07**|**Memory-enhanced Invariant Prompt Learning for Urban Flow Prediction under Distribution Shifts**|Haiyang Jiang et.al.|[2412.05534](http://arxiv.org/abs/2412.05534)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Position: Spectral GNNs Are Neither Spectral Nor Superior for Node Classification**|Qin Jiang et.al.|[2603.19091](http://arxiv.org/abs/2603.19091)|null|
+|**2026-03-19**|**Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**|Sangwoo Shin et.al.|[2603.19078](http://arxiv.org/abs/2603.19078)|null|
+|**2026-03-19**|**Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer**|Mohamed Youssef et.al.|[2603.18719](http://arxiv.org/abs/2603.18719)|null|
+|**2026-03-19**|**WarPGNN: A Parametric Thermal Warpage Analysis Framework with Physics-aware Graph Neural Network**|Haotian Lu et.al.|[2603.18581](http://arxiv.org/abs/2603.18581)|null|
+|**2026-03-19**|**Attack by Unlearning: Unlearning-Induced Adversarial Attacks on Graph Neural Networks**|Jiahao Zhang et.al.|[2603.18570](http://arxiv.org/abs/2603.18570)|null|
+|**2026-03-18**|**Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization**|Joohyoung Jeon et.al.|[2603.17692](http://arxiv.org/abs/2603.17692)|null|
+|**2026-03-18**|**ReLaGS: Relational Language Gaussian Splatting**|Yaxu Xie et.al.|[2603.17605](http://arxiv.org/abs/2603.17605)|null|
+|**2026-03-18**|**Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions (Extended Version with Technical Appendix)**|Nicola J. Müller et.al.|[2603.17544](http://arxiv.org/abs/2603.17544)|null|
+|**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
+|**2026-03-17**|**Self-Conditioned Denoising for Atomistic Representation Learning**|Tynan Perez et.al.|[2603.17196](http://arxiv.org/abs/2603.17196)|null|
 |**2026-03-16**|**Low-Complexity and Consistent Graphon Estimation from Multiple Networks**|Roland Boniface Sogan et.al.|[2603.15578](http://arxiv.org/abs/2603.15578)|null|
 |**2026-03-16**|**Multimodal Connectome Fusion via Cross-Attention for Autism Spectrum Disorder Classification Using Graph Learning**|Ansar Rahman et.al.|[2603.15168](http://arxiv.org/abs/2603.15168)|null|
 |**2026-03-16**|**CrossADR: enhancing adverse drug reactions prediction for combination pharmacotherapy with cross-layer feature integration and cross-level associative learning**|Y. Cheung et.al.|[2603.15047](http://arxiv.org/abs/2603.15047)|null|
@@ -78,7 +97,7 @@
 |**2026-03-12**|**Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing**|Bertran Miquel-Oliver et.al.|[2603.11944](http://arxiv.org/abs/2603.11944)|null|
 |**2026-03-12**|**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**|Yongzhong Wang et.al.|[2603.11811](http://arxiv.org/abs/2603.11811)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## Load Forecasting
 
@@ -95,7 +114,7 @@
 |**2026-02-04**|**Resilient Load Forecasting under Climate Change: Adaptive Conditional Neural Processes for Few-Shot Extreme Load Forecasting**|Chenxi Hu et.al.|[2602.04609](http://arxiv.org/abs/2602.04609)|null|
 |**2026-02-03**|**Real-world energy data of 200 feeders from low-voltage grids with metadata in Germany over two years**|Manuel Treutlein et.al.|[2602.03521](http://arxiv.org/abs/2602.03521)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 ## EV Charging Load Forecasting
 
@@ -103,7 +122,7 @@
 |---|---|---|---|---|
 |**2019-09-03**|**Load Forecasting Model and Day-ahead Operation Strategy for City-located EV Quick Charge Stations**|Zeyu Liu et.al.|[1909.00971](http://arxiv.org/abs/1909.00971)|null|
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
