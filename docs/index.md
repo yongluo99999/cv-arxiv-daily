@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.21
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Time Series Forecasting
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Forecasting with Guidance: Representation-Level Supervision for Time Series Forecasting**|Jiacheng Wang et.al.|[2603.24262](http://arxiv.org/abs/2603.24262)|null|
+|**2026-03-25**|**Embracing Heteroscedasticity for Probabilistic Time Series Forecasting**|Yijun Wang et.al.|[2603.24254](http://arxiv.org/abs/2603.24254)|null|
+|**2026-03-25**|**Heatwave-Related Mortality Across Indian Cities Under Future Climate Scenarios**|Ingita Dey Munshi et.al.|[2603.24244](http://arxiv.org/abs/2603.24244)|null|
+|**2026-03-25**|**IPatch: A Multi-Resolution Transformer Architecture for Robust Time-Series Forecasting**|Aymane Harkati et.al.|[2603.24207](http://arxiv.org/abs/2603.24207)|null|
+|**2026-03-24**|**Wafer-Level Etch Spatial Profiling for Process Monitoring from Time-Series with Time-LLM**|Hyunwoo Kim et.al.|[2603.23576](http://arxiv.org/abs/2603.23576)|null|
+|**2026-03-24**|**Dual-Criterion Curriculum Learning: Application to Temporal Data**|Gaspard Abel et.al.|[2603.23573](http://arxiv.org/abs/2603.23573)|null|
+|**2026-03-24**|**A Comparative Study of Machine Learning Models for Hourly Forecasting of Air Temperature and Relative Humidity**|Jiaqi Dong et.al.|[2603.23282](http://arxiv.org/abs/2603.23282)|null|
+|**2026-03-24**|**Short-Form Video Viewing Behavior Analysis and Multi-Step Viewing Time Prediction**|Vu Thi Hai Yen et.al.|[2603.22663](http://arxiv.org/abs/2603.22663)|null|
+|**2026-03-23**|**Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting**|Qilin Wang et.al.|[2603.22219](http://arxiv.org/abs/2603.22219)|null|
+|**2026-03-23**|**CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter**|Hanyin Cheng et.al.|[2603.21828](http://arxiv.org/abs/2603.21828)|null|
 |**2026-03-19**|**Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism**|Lei Gao et.al.|[2603.18712](http://arxiv.org/abs/2603.18712)|null|
 |**2026-03-19**|**MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting**|Runze Yang et.al.|[2603.18432](http://arxiv.org/abs/2603.18432)|null|
 |**2026-03-18**|**Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates**|Linxiao Yang et.al.|[2603.17439](http://arxiv.org/abs/2603.17439)|null|
@@ -55,6 +65,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
+|**2026-03-25**|**CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization**|Bowen Lu et.al.|[2603.24304](http://arxiv.org/abs/2603.24304)|null|
+|**2026-03-25**|**Cost-Sensitive Neighborhood Aggregation for Heterophilous Graphs: When Does Per-Edge Routing Help?**|Eyal Weiss et.al.|[2603.24291](http://arxiv.org/abs/2603.24291)|null|
+|**2026-03-25**|**DeepDTF: Dual-Branch Transformer Fusion for Multi-Omics Anticancer Drug Response Prediction**|Yuhan Zhao et.al.|[2603.24265](http://arxiv.org/abs/2603.24265)|null|
+|**2026-03-25**|**Reservoir-Based Graph Convolutional Networks**|Mayssa Soussia et.al.|[2603.24131](http://arxiv.org/abs/2603.24131)|null|
+|**2026-03-25**|**KCLNet: Electrically Equivalence-Oriented Graph Representation Learning for Analog Circuits**|Peng Xu et.al.|[2603.24101](http://arxiv.org/abs/2603.24101)|null|
+|**2026-03-25**|**The impact of sensor placement on graph-neural-network-based leakage detection**|J. J. H. van Gemert et.al.|[2603.24076](http://arxiv.org/abs/2603.24076)|null|
+|**2026-03-25**|**An Efficient High-Degree, High-Order Equivariant Graph Neural Network for Direct Crystal Structure Optimization**|Ziduo Yang et.al.|[2603.23941](http://arxiv.org/abs/2603.23941)|null|
+|**2026-03-24**|**LineMVGNN: Anti-Money Laundering with Line-Graph-Assisted Multi-View Graph Neural Networks**|Chung-Hoo Poon et.al.|[2603.23584](http://arxiv.org/abs/2603.23584)|null|
+|**2026-03-24**|**Self-Supervised Graph Neural Networks for Optimal Substation Reconfiguration**|Antoine Martinez et.al.|[2603.23401](http://arxiv.org/abs/2603.23401)|null|
 |**2026-03-19**|**Position: Spectral GNNs Are Neither Spectral Nor Superior for Node Classification**|Qin Jiang et.al.|[2603.19091](http://arxiv.org/abs/2603.19091)|null|
 |**2026-03-19**|**Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**|Sangwoo Shin et.al.|[2603.19078](http://arxiv.org/abs/2603.19078)|null|
 |**2026-03-19**|**Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer**|Mohamed Youssef et.al.|[2603.18719](http://arxiv.org/abs/2603.18719)|null|
@@ -90,6 +110,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning**|Chandler B. Smith et.al.|[2603.23496](http://arxiv.org/abs/2603.23496)|null|
+|**2026-03-21**|**Centrality-Based Pruning for Efficient Echo State Networks**|Sudip Laudari et.al.|[2603.20684](http://arxiv.org/abs/2603.20684)|null|
 |**2026-03-09**|**Bayesian Transformer for Probabilistic Load Forecasting in Smart Grids**|Sajib Debnath et.al.|[2603.07899](http://arxiv.org/abs/2603.07899)|null|
 |**2026-02-21**|**From ARIMA to Attention: Power Load Forecasting Using Temporal Deep Learning**|Suhasnadh Reddy Veluru et.al.|[2603.06622](http://arxiv.org/abs/2603.06622)|null|
 |**2026-03-06**|**SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms**|Longkun Xu et.al.|[2603.04873](http://arxiv.org/abs/2603.04873)|null|
