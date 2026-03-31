@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Time Series Forecasting
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-28**|**PyINLA: Fast Bayesian Inference for Latent Gaussian Models in Python**|Esmail Abdul Fattah et.al.|[2603.27276](http://arxiv.org/abs/2603.27276)|null|
+|**2026-03-27**|**Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer**|Yulun Wu et.al.|[2603.26097](http://arxiv.org/abs/2603.26097)|null|
+|**2026-03-27**|**QuitoBench: A High-Quality Open Time Series Forecasting Benchmark**|Siqiao Xue et.al.|[2603.26017](http://arxiv.org/abs/2603.26017)|null|
+|**2026-03-26**|**System-Anchored Knee Estimation for Low-Cost Context Window Selection in PDE Forecasting**|Wenshuo Wang et.al.|[2603.25025](http://arxiv.org/abs/2603.25025)|null|
 |**2026-03-25**|**Forecasting with Guidance: Representation-Level Supervision for Time Series Forecasting**|Jiacheng Wang et.al.|[2603.24262](http://arxiv.org/abs/2603.24262)|null|
 |**2026-03-25**|**Embracing Heteroscedasticity for Probabilistic Time Series Forecasting**|Yijun Wang et.al.|[2603.24254](http://arxiv.org/abs/2603.24254)|null|
 |**2026-03-25**|**Heatwave-Related Mortality Across Indian Cities Under Future Climate Scenarios**|Ingita Dey Munshi et.al.|[2603.24244](http://arxiv.org/abs/2603.24244)|null|
@@ -65,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs**|Tanvir Hossain et.al.|[2603.27529](http://arxiv.org/abs/2603.27529)|null|
+|**2026-03-28**|**GSR-GNN: Training Acceleration and Memory-Saving Framework of Deep GNNs on Circuit Graph**|Yuebo Luo et.al.|[2603.27156](http://arxiv.org/abs/2603.27156)|null|
+|**2026-03-28**|**A Tight Expressivity Hierarchy for GNN-Based Entity Resolution in Master Data Management**|Ashwin Ganesan et.al.|[2603.27154](http://arxiv.org/abs/2603.27154)|null|
+|**2026-03-28**|**ADEPT-PolyGraphMT: Automated Molecular Simulation and Multi-Task Multi-Fidelity Machine Learning for Polymer Property Generation and Prediction**|Sobin Alosious et.al.|[2603.27106](http://arxiv.org/abs/2603.27106)|null|
+|**2026-03-28**|**LLM Enhanced Action Recognition via Hierarchical Global-Local Skeleton-Language Model**|Ruosi Wang et.al.|[2603.27103](http://arxiv.org/abs/2603.27103)|null|
+|**2026-03-27**|**Topology-Aware Graph Reinforcement Learning for Energy Storage Systems Optimal Dispatch in Distribution Networks**|Shuyi Gao et.al.|[2603.26264](http://arxiv.org/abs/2603.26264)|null|
+|**2026-03-27**|**Graph-Based Meshfree Multi-scale Coarse Space Approximation for Two-Level Schwarz Methods**|Yucheng Liu et.al.|[2603.26149](http://arxiv.org/abs/2603.26149)|null|
+|**2026-03-27**|**On the Complexity of Optimal Graph Rewiring for Oversmoothing and Oversquashing in Graph Neural Networks**|Mostafa Haghir Chehreghani et.al.|[2603.26140](http://arxiv.org/abs/2603.26140)|null|
+|**2026-03-27**|**PEANUT: Perturbations by Eigenvalue Alignment for Attacking GNNs Under Topology-Driven Message Passing**|Bhavya Kohli et.al.|[2603.26136](http://arxiv.org/abs/2603.26136)|null|
+|**2026-03-27**|**Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?**|Yuhang Ma et.al.|[2603.26105](http://arxiv.org/abs/2603.26105)|null|
 |**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
 |**2026-03-25**|**CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization**|Bowen Lu et.al.|[2603.24304](http://arxiv.org/abs/2603.24304)|null|
 |**2026-03-25**|**Cost-Sensitive Neighborhood Aggregation for Heterophilous Graphs: When Does Per-Edge Routing Help?**|Eyal Weiss et.al.|[2603.24291](http://arxiv.org/abs/2603.24291)|null|
