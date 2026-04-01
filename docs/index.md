@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Time Series Forecasting
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting**|Prasanjit Dey et.al.|[2603.29756](http://arxiv.org/abs/2603.29756)|null|
+|**2026-03-30**|**MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations**|Xianyong Xu et.al.|[2603.28253](http://arxiv.org/abs/2603.28253)|null|
+|**2026-03-29**|**What-If Explanations Over Time: Counterfactuals for Time Series Classification**|Udo Schlegel et.al.|[2603.27792](http://arxiv.org/abs/2603.27792)|null|
 |**2026-03-28**|**PyINLA: Fast Bayesian Inference for Latent Gaussian Models in Python**|Esmail Abdul Fattah et.al.|[2603.27276](http://arxiv.org/abs/2603.27276)|null|
 |**2026-03-27**|**Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer**|Yulun Wu et.al.|[2603.26097](http://arxiv.org/abs/2603.26097)|null|
 |**2026-03-27**|**QuitoBench: A High-Quality Open Time Series Forecasting Benchmark**|Siqiao Xue et.al.|[2603.26017](http://arxiv.org/abs/2603.26017)|null|
@@ -69,6 +72,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
+|**2026-03-31**|**Disentangled Graph Prompting for Out-Of-Distribution Detection**|Cheng Yang et.al.|[2603.29644](http://arxiv.org/abs/2603.29644)|null|
+|**2026-03-31**|**Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems**|David Gonzalez et.al.|[2603.29515](http://arxiv.org/abs/2603.29515)|null|
+|**2026-03-31**|**Square Superpixel Generation and Representation Learning via Granular Ball Computing**|Shuyin Xia et.al.|[2603.29460](http://arxiv.org/abs/2603.29460)|null|
+|**2026-03-31**|**Causality-inspired Federated Learning for Dynamic Spatio-Temporal Graphs**|Yuxuan Liu et.al.|[2603.29384](http://arxiv.org/abs/2603.29384)|null|
+|**2026-03-31**|**From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks**|Mohamed Gharib et.al.|[2603.29268](http://arxiv.org/abs/2603.29268)|null|
+|**2026-03-31**|**Software Vulnerability Detection Using a Lightweight Graph Neural Network**|Miles Farmer et.al.|[2603.29216](http://arxiv.org/abs/2603.29216)|null|
+|**2026-03-31**|**Efficient and Scalable Granular-ball Graph Coarsening Method for Large-scale Graph Node Classification**|Guan Wang et.al.|[2603.29148](http://arxiv.org/abs/2603.29148)|null|
+|**2026-03-31**|**HCLSM: Hierarchical Causal Latent State Machines for Object-Centric World Modeling**|Jaber Jaber et.al.|[2603.29090](http://arxiv.org/abs/2603.29090)|null|
+|**2026-03-30**|**Decoding Functional Networks for Visual Categories via GNNs**|Shira Karmi et.al.|[2603.28931](http://arxiv.org/abs/2603.28931)|null|
 |**2026-03-29**|**Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs**|Tanvir Hossain et.al.|[2603.27529](http://arxiv.org/abs/2603.27529)|null|
 |**2026-03-28**|**GSR-GNN: Training Acceleration and Memory-Saving Framework of Deep GNNs on Circuit Graph**|Yuebo Luo et.al.|[2603.27156](http://arxiv.org/abs/2603.27156)|null|
 |**2026-03-28**|**A Tight Expressivity Hierarchy for GNN-Based Entity Resolution in Master Data Management**|Ashwin Ganesan et.al.|[2603.27154](http://arxiv.org/abs/2603.27154)|null|

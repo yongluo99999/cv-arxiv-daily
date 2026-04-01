@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting**|Prasanjit Dey et.al.|[2603.29756](http://arxiv.org/abs/2603.29756)|null|
+|**2026-03-30**|**MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations**|Xianyong Xu et.al.|[2603.28253](http://arxiv.org/abs/2603.28253)|null|
+|**2026-03-29**|**What-If Explanations Over Time: Counterfactuals for Time Series Classification**|Udo Schlegel et.al.|[2603.27792](http://arxiv.org/abs/2603.27792)|null|
 |**2026-03-28**|**PyINLA: Fast Bayesian Inference for Latent Gaussian Models in Python**|Esmail Abdul Fattah et.al.|[2603.27276](http://arxiv.org/abs/2603.27276)|null|
 |**2026-03-27**|**Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer**|Yulun Wu et.al.|[2603.26097](http://arxiv.org/abs/2603.26097)|null|
 |**2026-03-27**|**QuitoBench: A High-Quality Open Time Series Forecasting Benchmark**|Siqiao Xue et.al.|[2603.26017](http://arxiv.org/abs/2603.26017)|null|
@@ -57,7 +60,7 @@
 |**2026-03-10**|**FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**|Boya Zhang et.al.|[2603.09661](http://arxiv.org/abs/2603.09661)|null|
 |**2026-03-10**|**Dynamic Multi-period Experts for Online Time Series Forecasting**|Seungha Hong et.al.|[2603.09062](http://arxiv.org/abs/2603.09062)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Spatial Temporal Forecasting
 
@@ -74,12 +77,22 @@
 |**2024-12-17**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912](http://arxiv.org/abs/2412.10912)|null|
 |**2024-12-07**|**Memory-enhanced Invariant Prompt Learning for Urban Flow Prediction under Distribution Shifts**|Haiyang Jiang et.al.|[2412.05534](http://arxiv.org/abs/2412.05534)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
+|**2026-03-31**|**Disentangled Graph Prompting for Out-Of-Distribution Detection**|Cheng Yang et.al.|[2603.29644](http://arxiv.org/abs/2603.29644)|null|
+|**2026-03-31**|**Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems**|David Gonzalez et.al.|[2603.29515](http://arxiv.org/abs/2603.29515)|null|
+|**2026-03-31**|**Square Superpixel Generation and Representation Learning via Granular Ball Computing**|Shuyin Xia et.al.|[2603.29460](http://arxiv.org/abs/2603.29460)|null|
+|**2026-03-31**|**Causality-inspired Federated Learning for Dynamic Spatio-Temporal Graphs**|Yuxuan Liu et.al.|[2603.29384](http://arxiv.org/abs/2603.29384)|null|
+|**2026-03-31**|**From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks**|Mohamed Gharib et.al.|[2603.29268](http://arxiv.org/abs/2603.29268)|null|
+|**2026-03-31**|**Software Vulnerability Detection Using a Lightweight Graph Neural Network**|Miles Farmer et.al.|[2603.29216](http://arxiv.org/abs/2603.29216)|null|
+|**2026-03-31**|**Efficient and Scalable Granular-ball Graph Coarsening Method for Large-scale Graph Node Classification**|Guan Wang et.al.|[2603.29148](http://arxiv.org/abs/2603.29148)|null|
+|**2026-03-31**|**HCLSM: Hierarchical Causal Latent State Machines for Object-Centric World Modeling**|Jaber Jaber et.al.|[2603.29090](http://arxiv.org/abs/2603.29090)|null|
+|**2026-03-30**|**Decoding Functional Networks for Visual Categories via GNNs**|Shira Karmi et.al.|[2603.28931](http://arxiv.org/abs/2603.28931)|null|
 |**2026-03-29**|**Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs**|Tanvir Hossain et.al.|[2603.27529](http://arxiv.org/abs/2603.27529)|null|
 |**2026-03-28**|**GSR-GNN: Training Acceleration and Memory-Saving Framework of Deep GNNs on Circuit Graph**|Yuebo Luo et.al.|[2603.27156](http://arxiv.org/abs/2603.27156)|null|
 |**2026-03-28**|**A Tight Expressivity Hierarchy for GNN-Based Entity Resolution in Master Data Management**|Ashwin Ganesan et.al.|[2603.27154](http://arxiv.org/abs/2603.27154)|null|
@@ -131,7 +144,7 @@
 |**2026-03-12**|**Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing**|Bertran Miquel-Oliver et.al.|[2603.11944](http://arxiv.org/abs/2603.11944)|null|
 |**2026-03-12**|**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**|Yongzhong Wang et.al.|[2603.11811](http://arxiv.org/abs/2603.11811)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Load Forecasting
 
@@ -150,7 +163,7 @@
 |**2026-02-04**|**Resilient Load Forecasting under Climate Change: Adaptive Conditional Neural Processes for Few-Shot Extreme Load Forecasting**|Chenxi Hu et.al.|[2602.04609](http://arxiv.org/abs/2602.04609)|null|
 |**2026-02-03**|**Real-world energy data of 200 feeders from low-voltage grids with metadata in Germany over two years**|Manuel Treutlein et.al.|[2602.03521](http://arxiv.org/abs/2602.03521)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## EV Charging Load Forecasting
 
@@ -158,7 +171,7 @@
 |---|---|---|---|---|
 |**2019-09-03**|**Load Forecasting Model and Day-ahead Operation Strategy for City-located EV Quick Charge Stations**|Zeyu Liu et.al.|[1909.00971](http://arxiv.org/abs/1909.00971)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
