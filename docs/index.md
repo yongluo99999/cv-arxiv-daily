@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Time Series Forecasting
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Transformer self-attention encoder-decoder with multimodal deep learning for response time series forecasting and digital twin support in wind structural health monitoring**|Feiyu Zhou et.al.|[2604.01712](http://arxiv.org/abs/2604.01712)|null|
+|**2026-04-01**|**DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting**|Xiang Ao et.al.|[2604.01261](http://arxiv.org/abs/2604.01261)|null|
 |**2026-03-31**|**One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting**|Prasanjit Dey et.al.|[2603.29756](http://arxiv.org/abs/2603.29756)|null|
 |**2026-03-30**|**MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations**|Xianyong Xu et.al.|[2603.28253](http://arxiv.org/abs/2603.28253)|null|
 |**2026-03-29**|**What-If Explanations Over Time: Counterfactuals for Time Series Classification**|Udo Schlegel et.al.|[2603.27792](http://arxiv.org/abs/2603.27792)|null|
@@ -72,6 +74,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation**|Yingxu Wang et.al.|[2604.03154](http://arxiv.org/abs/2604.03154)|null|
+|**2026-04-03**|**Self-Supervised Graph Neural Networks for Full-Scale Tertiary Voltage Control**|Balthazar Donon et.al.|[2604.03087](http://arxiv.org/abs/2604.03087)|null|
+|**2026-04-03**|**Toward an Operational GNN-Based Multimesh Surrogate for Fast Flood Forecasting**|Valentin Mercier et.al.|[2604.02876](http://arxiv.org/abs/2604.02876)|null|
+|**2026-04-03**|**Communication-free Sampling and 4D Hybrid Parallelism for Scalable Mini-batch GNN Training**|Cunyang Wei et.al.|[2604.02651](http://arxiv.org/abs/2604.02651)|null|
+|**2026-04-03**|**Analytic Drift Resister for Non-Exemplar Continual Graph Learning**|Lei Song et.al.|[2604.02633](http://arxiv.org/abs/2604.02633)|null|
+|**2026-04-03**|**Complex-Valued GNNs for Distributed Basis-Invariant Control of Planar Systems**|Samuel Honor et.al.|[2604.02615](http://arxiv.org/abs/2604.02615)|null|
+|**2026-04-02**|**Crystalite: A Lightweight Transformer for Efficient Crystal Modeling**|Tin Hadži Veljković et.al.|[2604.02270](http://arxiv.org/abs/2604.02270)|null|
+|**2026-04-02**|**Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives**|Hao Zhu et.al.|[2604.02250](http://arxiv.org/abs/2604.02250)|null|
+|**2026-04-02**|**Physics Informed Reinforcement Learning with Gibbs Priors for Topology Control in Power Grids**|Pantelis Dogoulis et.al.|[2604.01830](http://arxiv.org/abs/2604.01830)|null|
+|**2026-04-02**|**A Graph Neural Network Approach for Solving the Ranked Assignment Problem in Multi-Object Tracking**|Robin Dehler et.al.|[2604.01696](http://arxiv.org/abs/2604.01696)|null|
 |**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
 |**2026-03-31**|**Disentangled Graph Prompting for Out-Of-Distribution Detection**|Cheng Yang et.al.|[2603.29644](http://arxiv.org/abs/2603.29644)|null|
 |**2026-03-31**|**Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems**|David Gonzalez et.al.|[2603.29515](http://arxiv.org/abs/2603.29515)|null|
