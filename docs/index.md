@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Time Series Forecasting
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Zero-shot Multivariate Time Series Forecasting Using Tabular Prior Fitted Networks**|Mayuka Jayawardhana et.al.|[2604.08400](http://arxiv.org/abs/2604.08400)|null|
+|**2026-04-08**|**Auto-Configured Networks for Multi-Scale Multi-Output Time-Series Forecasting**|Yumeng Zha et.al.|[2604.07610](http://arxiv.org/abs/2604.07610)|null|
+|**2026-04-08**|**DSPR: Dual-Stream Physics-Residual Networks for Trustworthy Industrial Time Series Forecasting**|Yeran Zhang et.al.|[2604.07393](http://arxiv.org/abs/2604.07393)|null|
+|**2026-04-08**|**Learning to Query History: Nonstationary Classification via Learned Retrieval**|Jimmy Gammell et.al.|[2604.07027](http://arxiv.org/abs/2604.07027)|null|
+|**2026-04-07**|**MICA: Multivariate Infini Compressive Attention for Time Series Forecasting**|Willa Potosnak et.al.|[2604.06473](http://arxiv.org/abs/2604.06473)|null|
+|**2026-04-07**|**Channel-wise Retrieval for Multivariate Time Series Forecasting**|Junhyeok Kang et.al.|[2604.05543](http://arxiv.org/abs/2604.05543)|null|
+|**2026-04-07**|**TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems**|Md Atik Ahamed et.al.|[2604.05364](http://arxiv.org/abs/2604.05364)|null|
+|**2026-04-06**|**Non-monotonic causal discovery with Kolmogorov-Arnold Fuzzy Cognitive Maps**|Jose L. Salmeron et.al.|[2604.05136](http://arxiv.org/abs/2604.05136)|null|
+|**2026-04-03**|**Recurrent Quantum Feature Maps for Reservoir Computing**|Utkarsh Singh et.al.|[2604.03469](http://arxiv.org/abs/2604.03469)|null|
+|**2026-04-03**|**Adversarial Robustness of Deep State Space Models for Forecasting**|Sribalaji C. Anand et.al.|[2604.03427](http://arxiv.org/abs/2604.03427)|null|
 |**2026-04-02**|**Transformer self-attention encoder-decoder with multimodal deep learning for response time series forecasting and digital twin support in wind structural health monitoring**|Feiyu Zhou et.al.|[2604.01712](http://arxiv.org/abs/2604.01712)|null|
 |**2026-04-01**|**DySCo: Dynamic Semantic Compression for Effective Long-term Time Series Forecasting**|Xiang Ao et.al.|[2604.01261](http://arxiv.org/abs/2604.01261)|null|
 |**2026-03-31**|**One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting**|Prasanjit Dey et.al.|[2603.29756](http://arxiv.org/abs/2603.29756)|null|
@@ -74,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[2604.08469](http://arxiv.org/abs/2604.08469)|null|
+|**2026-04-09**|**ML for the hKLM at the 2nd Detector**|Rowan Kelleher et.al.|[2604.08447](http://arxiv.org/abs/2604.08447)|null|
+|**2026-04-09**|**Harmonic morphisms and dynamical invariants in network renormalization**|Francesco Maria Guadagnuolo et.al.|[2604.08386](http://arxiv.org/abs/2604.08386)|null|
+|**2026-04-09**|**Temporal Graph Neural Network for ISAC Target Detection and Tracking**|Saiedeh Maboud Sanaie et.al.|[2604.08306](http://arxiv.org/abs/2604.08306)|null|
+|**2026-04-09**|**U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations**|Angeliki Dimitriou et.al.|[2604.08295](http://arxiv.org/abs/2604.08295)|null|
+|**2026-04-09**|**Clickbait detection: quick inference with maximum impact**|Soveatin Kuntur et.al.|[2604.08148](http://arxiv.org/abs/2604.08148)|null|
+|**2026-04-09**|**Equivariant Many-body Message Passing Interatomic Potentials for Magnetic Materials**|Cheuk Hin Ho et.al.|[2604.08143](http://arxiv.org/abs/2604.08143)|null|
+|**2026-04-09**|**Graph Neural Networks for Misinformation Detection: Performance-Efficiency Trade-offs**|Soveatin Kuntur et.al.|[2604.08131](http://arxiv.org/abs/2604.08131)|null|
+|**2026-04-09**|**AFGNN: API Misuse Detection using Graph Neural Networks and Clustering**|Ponnampalam Pirapuraj et.al.|[2604.07891](http://arxiv.org/abs/2604.07891)|null|
+|**2026-04-09**|**Toward Generalizable Graph Learning for 3D Engineering AI: Explainable Workflows for CAE Mode Shape Classification and CFD Field Prediction**|Tong Duy Son et.al.|[2604.07781](http://arxiv.org/abs/2604.07781)|null|
 |**2026-04-03**|**DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation**|Yingxu Wang et.al.|[2604.03154](http://arxiv.org/abs/2604.03154)|null|
 |**2026-04-03**|**Self-Supervised Graph Neural Networks for Full-Scale Tertiary Voltage Control**|Balthazar Donon et.al.|[2604.03087](http://arxiv.org/abs/2604.03087)|null|
 |**2026-04-03**|**Toward an Operational GNN-Based Multimesh Surrogate for Fast Flood Forecasting**|Valentin Mercier et.al.|[2604.02876](http://arxiv.org/abs/2604.02876)|null|
@@ -149,6 +169,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Late Breaking Results: Hardware-Efficient Quantum Reservoir Computing via Quantized Readout**|Param Pathak et.al.|[2604.06075](http://arxiv.org/abs/2604.06075)|null|
+|**2026-04-08**|**Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset**|Tinko Sebastian Bartels et.al.|[2604.05429](http://arxiv.org/abs/2604.05429)|null|
+|**2026-04-05**|**Three Phases of Expert Routing: How Load Balance Evolves During Mixture-of-Experts Training**|Charafeddine Mouzouni et.al.|[2604.04230](http://arxiv.org/abs/2604.04230)|null|
 |**2026-03-24**|**Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning**|Chandler B. Smith et.al.|[2603.23496](http://arxiv.org/abs/2603.23496)|null|
 |**2026-03-21**|**Centrality-Based Pruning for Efficient Echo State Networks**|Sudip Laudari et.al.|[2603.20684](http://arxiv.org/abs/2603.20684)|null|
 |**2026-03-09**|**Bayesian Transformer for Probabilistic Load Forecasting in Smart Grids**|Sajib Debnath et.al.|[2603.07899](http://arxiv.org/abs/2603.07899)|null|
