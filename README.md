@@ -1,4 +1,4 @@
-## Updated on 2026.04.11
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Forecasting Multivariate Time Series under Predictive Heterogeneity: A Validation-Driven Clustering Framework**|Ziling Ma et.al.|[2604.13748](http://arxiv.org/abs/2604.13748)|null|
+|**2026-04-15**|**Minimax Optimality and Spectral Routing for Majority-Vote Ensembles under Markov Dependence**|Ibne Farabi Shihab et.al.|[2604.13414](http://arxiv.org/abs/2604.13414)|null|
+|**2026-04-14**|**Bias-Corrected Adaptive Conformal Inference for Multi-Horizon Time Series Forecasting**|Ankit Lade et.al.|[2604.13253](http://arxiv.org/abs/2604.13253)|null|
+|**2026-04-14**|**TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting**|Fan Zhang et.al.|[2604.12648](http://arxiv.org/abs/2604.12648)|null|
+|**2026-04-13**|**INTARG: Informed Real-Time Adversarial Attack Generation for Time-Series Regression**|Gamze Kirman Tokgoz et.al.|[2604.11928](http://arxiv.org/abs/2604.11928)|null|
+|**2026-04-13**|**TempusBench: An Evaluation Framework for Time-Series Forecasting**|Denizalp Goktas et.al.|[2604.11529](http://arxiv.org/abs/2604.11529)|null|
+|**2026-04-12**|**WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting**|Shunyu Wu et.al.|[2604.10544](http://arxiv.org/abs/2604.10544)|null|
+|**2026-04-10**|**Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting**|Jafar Bakhshaliyev et.al.|[2604.09067](http://arxiv.org/abs/2604.09067)|null|
 |**2026-04-09**|**Zero-shot Multivariate Time Series Forecasting Using Tabular Prior Fitted Networks**|Mayuka Jayawardhana et.al.|[2604.08400](http://arxiv.org/abs/2604.08400)|null|
 |**2026-04-08**|**Auto-Configured Networks for Multi-Scale Multi-Output Time-Series Forecasting**|Yumeng Zha et.al.|[2604.07610](http://arxiv.org/abs/2604.07610)|null|
 |**2026-04-08**|**DSPR: Dual-Stream Physics-Residual Networks for Trustworthy Industrial Time Series Forecasting**|Yeran Zhang et.al.|[2604.07393](http://arxiv.org/abs/2604.07393)|null|
@@ -72,7 +80,7 @@
 |**2026-03-10**|**FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**|Boya Zhang et.al.|[2603.09661](http://arxiv.org/abs/2603.09661)|null|
 |**2026-03-10**|**Dynamic Multi-period Experts for Online Time Series Forecasting**|Seungha Hong et.al.|[2603.09062](http://arxiv.org/abs/2603.09062)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Spatial Temporal Forecasting
 
@@ -89,12 +97,22 @@
 |**2024-12-17**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912](http://arxiv.org/abs/2412.10912)|null|
 |**2024-12-07**|**Memory-enhanced Invariant Prompt Learning for Urban Flow Prediction under Distribution Shifts**|Haiyang Jiang et.al.|[2412.05534](http://arxiv.org/abs/2412.05534)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Log-based vs Graph-based Approaches to Fault Diagnosis**|Mathis Nguyen et.al.|[2604.14019](http://arxiv.org/abs/2604.14019)|null|
+|**2026-04-15**|**Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs**|Hussein Abdallah et.al.|[2604.13979](http://arxiv.org/abs/2604.13979)|null|
+|**2026-04-15**|**Ion-Specific Anomalous Water Diffusion in Aqueous Electrolytes: A Machine-Learned Many-Body Force Field Study with MACE**|Massimo Ciacchi et.al.|[2604.13659](http://arxiv.org/abs/2604.13659)|null|
+|**2026-04-15**|**FAST: A Synergistic Framework of Attention and State-space Models for Spatiotemporal Traffic Prediction**|Xinjin Li et.al.|[2604.13453](http://arxiv.org/abs/2604.13453)|null|
+|**2026-04-14**|**Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation**|Auguste de Lambilly et.al.|[2604.13354](http://arxiv.org/abs/2604.13354)|null|
+|**2026-04-14**|**Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation**|Mohsen Nayebi Kerdabadi et.al.|[2604.13331](http://arxiv.org/abs/2604.13331)|null|
+|**2026-04-14**|**Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting**|Shuai Wang et.al.|[2604.12503](http://arxiv.org/abs/2604.12503)|null|
+|**2026-04-14**|**Latent patterns of urban mixing in mobility analysis across five global cities**|Z. Fan et.al.|[2604.12202](http://arxiv.org/abs/2604.12202)|null|
+|**2026-04-13**|**XANE(3): An E(3)-Equivariant Graph Neural Network for Accurate Prediction of XANES Spectra from Atomic Structures**|Vitor F. Grizzi et.al.|[2604.12140](http://arxiv.org/abs/2604.12140)|null|
+|**2026-04-13**|**Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning**|Xiaoxue Han et.al.|[2604.11986](http://arxiv.org/abs/2604.11986)|null|
 |**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[2604.08469](http://arxiv.org/abs/2604.08469)|null|
 |**2026-04-09**|**ML for the hKLM at the 2nd Detector**|Rowan Kelleher et.al.|[2604.08447](http://arxiv.org/abs/2604.08447)|null|
 |**2026-04-09**|**Harmonic morphisms and dynamical invariants in network renormalization**|Francesco Maria Guadagnuolo et.al.|[2604.08386](http://arxiv.org/abs/2604.08386)|null|
@@ -176,12 +194,14 @@
 |**2026-03-12**|**Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing**|Bertran Miquel-Oliver et.al.|[2603.11944](http://arxiv.org/abs/2603.11944)|null|
 |**2026-03-12**|**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**|Yongzhong Wang et.al.|[2603.11811](http://arxiv.org/abs/2603.11811)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Load Forecasting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**An End-to-end Building Load Forecasting Framework with Patch-based Information Fusion Network and Error-weighted Adaptive Loss**|Hang Fan et.al.|[2604.13714](http://arxiv.org/abs/2604.13714)|null|
+|**2026-04-12**|**Wake-Induced Drag and Phase-Reconstructed Dynamics of a Flexible Plate in Normal Flow**|Maryam Boukor et.al.|[2604.10840](http://arxiv.org/abs/2604.10840)|null|
 |**2026-04-07**|**Late Breaking Results: Hardware-Efficient Quantum Reservoir Computing via Quantized Readout**|Param Pathak et.al.|[2604.06075](http://arxiv.org/abs/2604.06075)|null|
 |**2026-04-08**|**Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset**|Tinko Sebastian Bartels et.al.|[2604.05429](http://arxiv.org/abs/2604.05429)|null|
 |**2026-04-05**|**Three Phases of Expert Routing: How Load Balance Evolves During Mixture-of-Experts Training**|Charafeddine Mouzouni et.al.|[2604.04230](http://arxiv.org/abs/2604.04230)|null|
@@ -198,7 +218,7 @@
 |**2026-02-04**|**Resilient Load Forecasting under Climate Change: Adaptive Conditional Neural Processes for Few-Shot Extreme Load Forecasting**|Chenxi Hu et.al.|[2602.04609](http://arxiv.org/abs/2602.04609)|null|
 |**2026-02-03**|**Real-world energy data of 200 feeders from low-voltage grids with metadata in Germany over two years**|Manuel Treutlein et.al.|[2602.03521](http://arxiv.org/abs/2602.03521)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## EV Charging Load Forecasting
 
@@ -206,7 +226,7 @@
 |---|---|---|---|---|
 |**2019-09-03**|**Load Forecasting Model and Day-ahead Operation Strategy for City-located EV Quick Charge Stations**|Zeyu Liu et.al.|[1909.00971](http://arxiv.org/abs/1909.00971)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
