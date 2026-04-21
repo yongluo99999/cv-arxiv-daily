@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Time Series Forecasting
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**In-Context Learning Under Regime Change**|Carson Dudley et.al.|[2604.16988](http://arxiv.org/abs/2604.16988)|null|
+|**2026-04-18**|**The CTLNet for Shanghai Composite Index Prediction**|Haibin Jiao et.al.|[2604.16835](http://arxiv.org/abs/2604.16835)|null|
+|**2026-04-17**|**TriTS: Time Series Forecasting from a Multimodal Perspective**|Xiang Ao et.al.|[2604.16748](http://arxiv.org/abs/2604.16748)|null|
+|**2026-04-17**|**Chronax: A Jax Library for Univariate Statistical Forecasting and Conformal Inference**|Xan Carey et.al.|[2604.16719](http://arxiv.org/abs/2604.16719)|null|
+|**2026-04-17**|**Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints**|Cedric Bonhomme et.al.|[2604.16038](http://arxiv.org/abs/2604.16038)|null|
+|**2026-04-17**|**Convolutionally Low-Rank Models with Modified Quantile Regression for Interval Time Series Forecasting**|Miaoxuan Zhu et.al.|[2604.15791](http://arxiv.org/abs/2604.15791)|null|
 |**2026-04-15**|**Forecasting Multivariate Time Series under Predictive Heterogeneity: A Validation-Driven Clustering Framework**|Ziling Ma et.al.|[2604.13748](http://arxiv.org/abs/2604.13748)|null|
 |**2026-04-15**|**Minimax Optimality and Spectral Routing for Majority-Vote Ensembles under Markov Dependence**|Ibne Farabi Shihab et.al.|[2604.13414](http://arxiv.org/abs/2604.13414)|null|
 |**2026-04-14**|**Bias-Corrected Adaptive Conformal Inference for Multi-Horizon Time Series Forecasting**|Ankit Lade et.al.|[2604.13253](http://arxiv.org/abs/2604.13253)|null|
@@ -77,6 +83,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration**|Xingsheng Chen et.al.|[2604.16325](http://arxiv.org/abs/2604.16325)|null|
 |**2026-01-30**|**FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction**|Chengyang Zhou et.al.|[2601.22578](http://arxiv.org/abs/2601.22578)|null|
 |**2025-12-19**|**Wireless Traffic Prediction with Large Language Model**|Chuanting Zhang et.al.|[2512.22178](http://arxiv.org/abs/2512.22178)|null|
 |**2025-10-11**|**P-4DGS: Predictive 4D Gaussian Splatting with 90 $\times$ Compression**|Henan Wang et.al.|[2510.10030](http://arxiv.org/abs/2510.10030)|null|
@@ -92,6 +99,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Do LLM-derived graph priors improve multi-agent coordination?**|Nikunj Gupta et.al.|[2604.17191](http://arxiv.org/abs/2604.17191)|null|
+|**2026-04-18**|**A phenotype-driven and evidence-governed framework for knowledge graph enrichment and hypotheses discovery in population data**|Adela Bâra et.al.|[2604.16982](http://arxiv.org/abs/2604.16982)|null|
+|**2026-04-18**|**LAGS: Low-Altitude Gaussian Splatting with Groupwise Heterogeneous Graph Learning**|Yikun Wang et.al.|[2604.16910](http://arxiv.org/abs/2604.16910)|null|
+|**2026-04-18**|**Hierarchical Vision Transformer Enhanced by Graph Convolutional Network for Image Classification**|Haibin Jiao et.al.|[2604.16823](http://arxiv.org/abs/2604.16823)|null|
+|**2026-04-18**|**Scalable Quantum Error Mitigation with Physically Informed Graph Neural Networks**|Huaxin Wang et.al.|[2604.16815](http://arxiv.org/abs/2604.16815)|null|
+|**2026-04-17**|**Machine Learning and Deep Learning in Quantum Materials: Symmetry, Topology, and the Rise of Altermagnets**|Mahyar Hassani-Vasmejani et.al.|[2604.15985](http://arxiv.org/abs/2604.15985)|null|
+|**2026-04-17**|**Reversible Residual Normalization Alleviates Spatio-Temporal Distribution Shift**|Zhaobo Hu et.al.|[2604.15838](http://arxiv.org/abs/2604.15838)|null|
+|**2026-04-17**|**Modern Structure-Aware Simplicial Spatiotemporal Neural Network**|Zhaobo Hu et.al.|[2604.15833](http://arxiv.org/abs/2604.15833)|null|
+|**2026-04-17**|**Zero-Shot Scalable Resilience in UAV Swarms: A Decentralized Imitation Learning Framework with Physics-Informed Graph Interactions**|Huan Lin et.al.|[2604.15762](http://arxiv.org/abs/2604.15762)|null|
+|**2026-04-17**|**NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection**|Zehao Wang et.al.|[2604.15668](http://arxiv.org/abs/2604.15668)|null|
 |**2026-04-15**|**Log-based vs Graph-based Approaches to Fault Diagnosis**|Mathis Nguyen et.al.|[2604.14019](http://arxiv.org/abs/2604.14019)|null|
 |**2026-04-15**|**Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs**|Hussein Abdallah et.al.|[2604.13979](http://arxiv.org/abs/2604.13979)|null|
 |**2026-04-15**|**Ion-Specific Anomalous Water Diffusion in Aqueous Electrolytes: A Machine-Learned Many-Body Force Field Study with MACE**|Massimo Ciacchi et.al.|[2604.13659](http://arxiv.org/abs/2604.13659)|null|
@@ -187,6 +204,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**Net Load Forecasting Using Machine Learning with Growing Renewable Power Capacity Features: A Comparative Study of Direct and Indirect Methods**|Oluwafolajimi Samuel Bolusteve et.al.|[2604.17012](http://arxiv.org/abs/2604.17012)|null|
+|**2026-04-17**|**CVaR-Guided Decision-Focused Learning and Risk-Triggered Re-Optimization for Two-Stage Robust Microgrid Operation**|Tingwei Cao et.al.|[2604.16614](http://arxiv.org/abs/2604.16614)|null|
+|**2026-04-16**|**Degradation-aware Predictive Energy Management for Fuel Cell-Battery Ship Power System with Data-driven Load Forecasting**|Timon Kopka et.al.|[2604.14994](http://arxiv.org/abs/2604.14994)|null|
 |**2026-04-15**|**An End-to-end Building Load Forecasting Framework with Patch-based Information Fusion Network and Error-weighted Adaptive Loss**|Hang Fan et.al.|[2604.13714](http://arxiv.org/abs/2604.13714)|null|
 |**2026-04-12**|**Wake-Induced Drag and Phase-Reconstructed Dynamics of a Flexible Plate in Normal Flow**|Maryam Boukor et.al.|[2604.10840](http://arxiv.org/abs/2604.10840)|null|
 |**2026-04-07**|**Late Breaking Results: Hardware-Efficient Quantum Reservoir Computing via Quantized Readout**|Param Pathak et.al.|[2604.06075](http://arxiv.org/abs/2604.06075)|null|
