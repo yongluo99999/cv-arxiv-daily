@@ -1,4 +1,4 @@
-## Updated on 2026.04.21
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**Reorganizing Quantum Measurement Records Improves Time-Series Prediction**|Markus Baumann et.al.|[2604.28160](http://arxiv.org/abs/2604.28160)|null|
+|**2026-04-30**|**ITS-Mina: A Harris Hawks Optimization-Based All-MLP Framework with Iterative Refinement and External Attention for Multivariate Time Series Forecasting**|Pourya Zamanvaziri et.al.|[2604.27981](http://arxiv.org/abs/2604.27981)|null|
+|**2026-04-30**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
+|**2026-04-30**|**Probabilistic Circuits for Irregular Multivariate Time Series Forecasting**|Christian Klötergens et.al.|[2604.27814](http://arxiv.org/abs/2604.27814)|null|
+|**2026-04-30**|**A Study on the Performance of Distributed Training of Data-driven CFD Simulations**|Sergio Iserte et.al.|[2604.27431](http://arxiv.org/abs/2604.27431)|null|
+|**2026-04-27**|**Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting**|Max Kleinebrahm et.al.|[2604.24705](http://arxiv.org/abs/2604.24705)|null|
+|**2026-04-27**|**AsyncShield: A Plug-and-Play Edge Adapter for Asynchronous Cloud-based VLA Navigation**|Kai Yang et.al.|[2604.24086](http://arxiv.org/abs/2604.24086)|null|
+|**2026-04-27**|**DecompKAN: Decomposed Patch-KAN for Long-Term Time Series Forecasting**|Naveen Mysore et.al.|[2604.23968](http://arxiv.org/abs/2604.23968)|null|
+|**2026-04-26**|**Time-Series Forecasting in Safety-Critical Environments: An EU-AI-Act-Compliant Open-Source Package / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein KI-VO-konformes Open-Source-Paket**|Thomas Bartz-Beielstein et.al.|[2604.23859](http://arxiv.org/abs/2604.23859)|null|
+|**2026-04-26**|**Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System**|Tushar Pandey et.al.|[2604.23743](http://arxiv.org/abs/2604.23743)|null|
 |**2026-04-18**|**In-Context Learning Under Regime Change**|Carson Dudley et.al.|[2604.16988](http://arxiv.org/abs/2604.16988)|null|
 |**2026-04-18**|**The CTLNet for Shanghai Composite Index Prediction**|Haibin Jiao et.al.|[2604.16835](http://arxiv.org/abs/2604.16835)|null|
 |**2026-04-17**|**TriTS: Time Series Forecasting from a Multimodal Perspective**|Xiang Ao et.al.|[2604.16748](http://arxiv.org/abs/2604.16748)|null|
@@ -86,30 +96,41 @@
 |**2026-03-10**|**FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**|Boya Zhang et.al.|[2603.09661](http://arxiv.org/abs/2603.09661)|null|
 |**2026-03-10**|**Dynamic Multi-period Experts for Online Time Series Forecasting**|Seungha Hong et.al.|[2603.09062](http://arxiv.org/abs/2603.09062)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Spatial Temporal Forecasting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation**|Yuxuan Tian et.al.|[2604.26848](http://arxiv.org/abs/2604.26848)|null|
 |**2026-03-06**|**UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration**|Xingsheng Chen et.al.|[2604.16325](http://arxiv.org/abs/2604.16325)|null|
 |**2026-01-30**|**FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction**|Chengyang Zhou et.al.|[2601.22578](http://arxiv.org/abs/2601.22578)|null|
 |**2025-12-19**|**Wireless Traffic Prediction with Large Language Model**|Chuanting Zhang et.al.|[2512.22178](http://arxiv.org/abs/2512.22178)|null|
 |**2025-10-11**|**P-4DGS: Predictive 4D Gaussian Splatting with 90 $\times$ Compression**|Henan Wang et.al.|[2510.10030](http://arxiv.org/abs/2510.10030)|null|
 |**2025-08-18**|**SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration**|Bang Hu et.al.|[2508.02069](http://arxiv.org/abs/2508.02069)|null|
-|**2025-06-08**|**Regularized Adaptive Graph Learning for Large-Scale Traffic Forecasting**|Kaiqi Wu et.al.|[2506.07179](http://arxiv.org/abs/2506.07179)|null|
+|**2026-04-30**|**Efficient Traffic Forecasting on Large-Scale Road Network by Regularized Adaptive Graph Convolution**|Kaiqi Wu et.al.|[2506.07179](http://arxiv.org/abs/2506.07179)|null|
 |**2025-03-31**|**Spatio-temporal Prediction of Fine-Grained Origin-Destination Matrices with Applications in Ridesharing**|Run Yang et.al.|[2503.24237](http://arxiv.org/abs/2503.24237)|null|
 |**2025-06-05**|**Spatial-temporal prediction of forest attributes using latent Gaussian models and inventory data**|Paul B. May et.al.|[2503.16691](http://arxiv.org/abs/2503.16691)|null|
 |**2024-12-19**|**ST-ReP: Learning Predictive Representations Efficiently for Spatial-Temporal Forecasting**|Qi Zheng et.al.|[2412.14537](http://arxiv.org/abs/2412.14537)|null|
 |**2024-12-17**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912](http://arxiv.org/abs/2412.10912)|null|
 |**2024-12-07**|**Memory-enhanced Invariant Prompt Learning for Urban Flow Prediction under Distribution Shifts**|Haiyang Jiang et.al.|[2412.05534](http://arxiv.org/abs/2412.05534)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects**|Tim Missal et.al.|[2604.28161](http://arxiv.org/abs/2604.28161)|null|
+|**2026-04-30**|**Exploring Sparse Matrix Multiplication Kernels on the Cerebras CS-3**|Milan Shah et.al.|[2604.27985](http://arxiv.org/abs/2604.27985)|null|
+|**2026-04-30**|**Hyper-Dimensional Fingerprints as Molecular Representations**|Jonas Teufel et.al.|[2604.27810](http://arxiv.org/abs/2604.27810)|null|
+|**2026-04-30**|**On the Expressive Power of GNNs to Solve Linear SDPs**|Chendi Qian et.al.|[2604.27786](http://arxiv.org/abs/2604.27786)|null|
+|**2026-04-30**|**Toward Scalable SDN for LEO Mega-Constellations: A Graph Learning Approach**|Sivaram Krishnan et.al.|[2604.27478](http://arxiv.org/abs/2604.27478)|null|
+|**2026-04-30**|**TypeBandit: Type-Level Context Allocation and Reweighting for Effective Attribute Completion in Heterogeneous Graph Neural Networks**|Ta-Yang Wang et.al.|[2604.27356](http://arxiv.org/abs/2604.27356)|null|
+|**2026-04-29**|**SafeTune: Mitigating Data Poisoning in LLM Fine-Tuning for RTL Code Generation**|Mahshid Rezakhani et.al.|[2604.27238](http://arxiv.org/abs/2604.27238)|null|
+|**2026-04-29**|**Experimentally Accurate Graph Neural Network Predictions of Core-Electron Binding Energies**|Adam E. A. Fouda et.al.|[2604.27070](http://arxiv.org/abs/2604.27070)|null|
+|**2026-04-29**|**LLM-Flax : Generalizable Robotic Task Planning via Neuro-Symbolic Approaches with Large Language Models**|Seongmin Kim et.al.|[2604.26569](http://arxiv.org/abs/2604.26569)|null|
+|**2026-04-29**|**Learning to Route Electric Trucks Under Operational Uncertainty**|Stavros Orfanoudakis et.al.|[2604.26566](http://arxiv.org/abs/2604.26566)|null|
 |**2026-04-19**|**Do LLM-derived graph priors improve multi-agent coordination?**|Nikunj Gupta et.al.|[2604.17191](http://arxiv.org/abs/2604.17191)|null|
 |**2026-04-18**|**A phenotype-driven and evidence-governed framework for knowledge graph enrichment and hypotheses discovery in population data**|Adela Bâra et.al.|[2604.16982](http://arxiv.org/abs/2604.16982)|null|
 |**2026-04-18**|**LAGS: Low-Altitude Gaussian Splatting with Groupwise Heterogeneous Graph Learning**|Yikun Wang et.al.|[2604.16910](http://arxiv.org/abs/2604.16910)|null|
@@ -211,12 +232,16 @@
 |**2026-03-12**|**Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing**|Bertran Miquel-Oliver et.al.|[2603.11944](http://arxiv.org/abs/2603.11944)|null|
 |**2026-03-12**|**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**|Yongzhong Wang et.al.|[2603.11811](http://arxiv.org/abs/2603.11811)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Load Forecasting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models**|Matthias Hertel et.al.|[2604.28149](http://arxiv.org/abs/2604.28149)|null|
+|**2026-04-29**|**Regime-Adaptive Weighted Ensemble Learning for Computing-Driven Dynamic Load Forecasting in AI Data Centers**|Ziying Wang et.al.|[2604.27207](http://arxiv.org/abs/2604.27207)|null|
+|**2026-04-26**|**Interpretable Physics-Informed Load Forecasting for U.S. Grid Resilience: SHAP-Guided Ensemble Validation in Hybrid Deep Learning Under Extreme Weather**|Md Abubakkar et.al.|[2604.23500](http://arxiv.org/abs/2604.23500)|null|
+|**2026-04-23**|**Empirical Assessment of Time-Series Foundation Models For Power System Forecasting Applications**|Muhy Eddin Za'ter et.al.|[2604.22077](http://arxiv.org/abs/2604.22077)|null|
 |**2026-04-18**|**Net Load Forecasting Using Machine Learning with Growing Renewable Power Capacity Features: A Comparative Study of Direct and Indirect Methods**|Oluwafolajimi Samuel Bolusteve et.al.|[2604.17012](http://arxiv.org/abs/2604.17012)|null|
 |**2026-04-17**|**CVaR-Guided Decision-Focused Learning and Risk-Triggered Re-Optimization for Two-Stage Robust Microgrid Operation**|Tingwei Cao et.al.|[2604.16614](http://arxiv.org/abs/2604.16614)|null|
 |**2026-04-16**|**Degradation-aware Predictive Energy Management for Fuel Cell-Battery Ship Power System with Data-driven Load Forecasting**|Timon Kopka et.al.|[2604.14994](http://arxiv.org/abs/2604.14994)|null|
@@ -238,7 +263,7 @@
 |**2026-02-04**|**Resilient Load Forecasting under Climate Change: Adaptive Conditional Neural Processes for Few-Shot Extreme Load Forecasting**|Chenxi Hu et.al.|[2602.04609](http://arxiv.org/abs/2602.04609)|null|
 |**2026-02-03**|**Real-world energy data of 200 feeders from low-voltage grids with metadata in Germany over two years**|Manuel Treutlein et.al.|[2602.03521](http://arxiv.org/abs/2602.03521)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## EV Charging Load Forecasting
 
@@ -246,7 +271,7 @@
 |---|---|---|---|---|
 |**2019-09-03**|**Load Forecasting Model and Day-ahead Operation Strategy for City-located EV Quick Charge Stations**|Zeyu Liu et.al.|[1909.00971](http://arxiv.org/abs/1909.00971)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
