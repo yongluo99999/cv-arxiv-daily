@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.01
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Time Series Forecasting
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Training-Free Probabilistic Time-Series Forecasting with Conformal Seasonal Pools**|Valery Manokhin et.al.|[2605.03789](http://arxiv.org/abs/2605.03789)|null|
+|**2026-05-04**|**Global and Local Topology-Aware Attention with Persistent Homology and Euler Biases for Time-Series Forecasting**|Usef Faghihi et.al.|[2605.03163](http://arxiv.org/abs/2605.03163)|null|
+|**2026-05-01**|**PAMNet: Cycle-aware Phase-Amplitude Modulation Network for Multivariate Time Series Forecasting**|Yingbo Zhou et.al.|[2605.02938](http://arxiv.org/abs/2605.02938)|null|
+|**2026-05-04**|**MSMixer: Learned Multi-Scale Temporal Mixing with Complementary Linear Shortcut for Long-Term Time Series Forecasting**|Ahmed Cherif et.al.|[2605.02689](http://arxiv.org/abs/2605.02689)|null|
+|**2026-05-03**|**Computing with the complex nonlinear dynamics of an optomechanical oscillator**|Shulamit Edelstein et.al.|[2605.01792](http://arxiv.org/abs/2605.01792)|null|
+|**2026-05-02**|**Why Model Selection Fails in Time Series Forecasting: An Empirical Study of Instability Across Data Regimes**|Tahir Cetin Akinci et.al.|[2605.01608](http://arxiv.org/abs/2605.01608)|null|
+|**2026-05-02**|**Evaluating quantum circuits in the reservoir computing paradigm**|Gaurav Rudra Malik et.al.|[2605.01253](http://arxiv.org/abs/2605.01253)|null|
+|**2026-05-02**|**CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models**|Xiaorui Wang et.al.|[2605.01231](http://arxiv.org/abs/2605.01231)|null|
+|**2026-05-01**|**From Prediction to Practice: A Task-Aware Evaluation Framework for Blood Glucose Forecasting**|Alireza Namazi et.al.|[2605.00645](http://arxiv.org/abs/2605.00645)|null|
+|**2026-05-01**|**PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting**|Yingbo Zhou et.al.|[2605.00466](http://arxiv.org/abs/2605.00466)|null|
 |**2026-04-30**|**Reorganizing Quantum Measurement Records Improves Time-Series Prediction**|Markus Baumann et.al.|[2604.28160](http://arxiv.org/abs/2604.28160)|null|
 |**2026-04-30**|**ITS-Mina: A Harris Hawks Optimization-Based All-MLP Framework with Iterative Refinement and External Attention for Multivariate Time Series Forecasting**|Pourya Zamanvaziri et.al.|[2604.27981](http://arxiv.org/abs/2604.27981)|null|
 |**2026-04-30**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
@@ -93,7 +103,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-29**|**STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation**|Yuxuan Tian et.al.|[2604.26848](http://arxiv.org/abs/2604.26848)|null|
+|**2026-05-01**|**STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation**|Yuxuan Tian et.al.|[2604.26848](http://arxiv.org/abs/2604.26848)|null|
 |**2026-03-06**|**UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration**|Xingsheng Chen et.al.|[2604.16325](http://arxiv.org/abs/2604.16325)|null|
 |**2026-01-30**|**FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction**|Chengyang Zhou et.al.|[2601.22578](http://arxiv.org/abs/2601.22578)|null|
 |**2025-12-19**|**Wireless Traffic Prediction with Large Language Model**|Chuanting Zhang et.al.|[2512.22178](http://arxiv.org/abs/2512.22178)|null|
@@ -110,6 +120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Magic-Informed Quantum Architecture Search**|Vincenzo Lipardi et.al.|[2605.03932](http://arxiv.org/abs/2605.03932)|null|
+|**2026-05-05**|**Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories**|Ali Rayat et.al.|[2605.03901](http://arxiv.org/abs/2605.03901)|null|
+|**2026-05-05**|**Aspect-Aware Content-Based Recommendations for Mathematical Research Papers**|Ankit Satpute et.al.|[2605.03861](http://arxiv.org/abs/2605.03861)|null|
+|**2026-05-05**|**Graph Neural Network based Hierarchy-Aware Embeddings of Knowledge Graphs: Applications to Yeast Phenotype Prediction**|Filip Kronström et.al.|[2605.03690](http://arxiv.org/abs/2605.03690)|null|
+|**2026-05-05**|**Deep Graph-Language Fusion for Structure-Aware Code Generation**|Mert Tiftikci et.al.|[2605.03689](http://arxiv.org/abs/2605.03689)|null|
+|**2026-05-05**|**Graph Reconstruction from Differentially Private GNN Explanations**|Rishi Raj Sahoo et.al.|[2605.03388](http://arxiv.org/abs/2605.03388)|null|
+|**2026-05-05**|**GRAFT: Auditing Graph Neural Networks via Global Feature Attribution**|Rishi Raj Sahoo et.al.|[2605.03377](http://arxiv.org/abs/2605.03377)|null|
+|**2026-05-05**|**Will the Carbon Border Adjustment Mechanism Impact European Electricity Prices? A GNN-Based Network Analysis**|Jiachen Shen et.al.|[2605.03304](http://arxiv.org/abs/2605.03304)|null|
+|**2026-05-05**|**Stable Multimodal Graph Unlearning via Feature-Dimension Aware Quantile Selection**|Jingjing Zhou et.al.|[2605.03303](http://arxiv.org/abs/2605.03303)|null|
+|**2026-05-04**|**Semantically Enriching Investor Micro-blogs for Opinion-Aware Emotion Analysis: A Practical Approach**|Gaurav Negi et.al.|[2605.03092](http://arxiv.org/abs/2605.03092)|null|
 |**2026-04-30**|**RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects**|Tim Missal et.al.|[2604.28161](http://arxiv.org/abs/2604.28161)|null|
 |**2026-04-30**|**Exploring Sparse Matrix Multiplication Kernels on the Cerebras CS-3**|Milan Shah et.al.|[2604.27985](http://arxiv.org/abs/2604.27985)|null|
 |**2026-04-30**|**Hyper-Dimensional Fingerprints as Molecular Representations**|Jonas Teufel et.al.|[2604.27810](http://arxiv.org/abs/2604.27810)|null|
@@ -225,6 +245,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Deployment-Efficient Short-Term Load Forecasting in AI Data Centers via Sequence-to-Point Knowledge Distillation**|Lei Wang et.al.|[2605.00681](http://arxiv.org/abs/2605.00681)|null|
+|**2026-04-30**|**Adaptive Norm-Based Regularization for Neural Networks**|Muhammad Qasim et.al.|[2605.00171](http://arxiv.org/abs/2605.00171)|null|
 |**2026-04-30**|**Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models**|Matthias Hertel et.al.|[2604.28149](http://arxiv.org/abs/2604.28149)|null|
 |**2026-04-29**|**Regime-Adaptive Weighted Ensemble Learning for Computing-Driven Dynamic Load Forecasting in AI Data Centers**|Ziying Wang et.al.|[2604.27207](http://arxiv.org/abs/2604.27207)|null|
 |**2026-04-26**|**Interpretable Physics-Informed Load Forecasting for U.S. Grid Resilience: SHAP-Guided Ensemble Validation in Hybrid Deep Learning Under Extreme Weather**|Md Abubakkar et.al.|[2604.23500](http://arxiv.org/abs/2604.23500)|null|
